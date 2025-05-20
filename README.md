@@ -15,7 +15,6 @@ Welcome to the Week 1 repository of our Java learning journey! This week establ
 3. [Prerequisites](#prerequisites)  
 4. [Repository Structure](#repository-structure)  
 5. [Getting Started](#getting-started)  
-6. [Next Steps](#next-steps)  
 
 ---
 
