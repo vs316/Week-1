@@ -70,4 +70,30 @@ During this first week, you’ll learn how to write and run simple Java programs
   - A code editor or IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code)
 
 ## Repository Structure
+week-1-java-fundamentals/
+├── day-1-introduction/
+│ └── HelloWorld.java
+├── day-2-variables-and-operators/
+│ └── VariablesDemo.java
+├── day-3-control-flow/
+│ ├── ConditionalDemo.java
+│ └── LoopDemo.java
+├── day-4-arrays/
+│ └── ArraysDemo.java
+├── day-5-strings/
+│ └── StringsDemo.java
+└── day-6-methods/
+└── MethodsDemo.java
 
+Each folder contains sample code, exercises, and notes for that day.
+
+## Getting Started
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/yourusername/week-1-java-fundamentals.git
+   cd week-1-java-fundamentals
+2. **Compile and Run**
+   javac day-1-introduction/HelloWorld.java
+   java -cp day-1-introduction HelloWorld
+3. Explore: Open each day’s folder, read the code, and try modifying or extending the examples.
