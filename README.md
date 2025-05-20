@@ -69,6 +69,7 @@ During this first week, you’ll learn how to write and run simple Java programs
   - A code editor or IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code)
 
 ## Repository Structure
+```
 week-1-java-fundamentals/
 ├── day-1-introduction/
 │ └── HelloWorld.java
@@ -83,6 +84,7 @@ week-1-java-fundamentals/
 │ └── StringsDemo.java
 └── day-6-methods/
 └── MethodsDemo.java
+```
 
 Each folder contains sample code, exercises, and notes for that day.
 
